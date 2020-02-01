@@ -9,7 +9,7 @@ public class Button : MonoBehaviour
 
     void Start()
     {
-        Button btn = yourButton.GetComponent<Button>();        
+        // Button btn = yourButton.GetComponent<Button>();        
     }
 
     void TaskOnClick()
